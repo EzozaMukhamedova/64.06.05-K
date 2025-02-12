@@ -1,5 +1,4 @@
-// BrowserRouter: Ushbu komponent ilovaning routing kontekstini o'rnatadi. U URL manzillarini kuzatib boradi va tegishli Route komponentlarini ko'rsatadi.
-// Routes: Ushbu konteyner ichida bir nechta Route komponentlari joylashadi. Faqat bir Route komponenti bir vaqtda faol bo'lishi mumkin.
+// Routes:  konteyner ichida bir nechta Route komponentlari joylashadi. Faqat bir Route komponenti bir vaqtda faol bo'lishi mumkin.
 // Route: Har bir Route komponenti URL manziliga mos keladigan komponentni (element) belgilaydi. Agar URL manzil mos kelmasa, komponent ko'rsatilmaydi.
 // path: Bu atribut URL manzilini belgilaydi.
 // element: Bu atribut URL manziliga mos kelganda ko'rsatiladigan React komponentini belgilaydi.
